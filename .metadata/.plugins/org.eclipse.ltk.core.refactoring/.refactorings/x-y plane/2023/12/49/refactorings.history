@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;x_yPlane&apos; to &apos;Point&apos;&#x0D;&#x0A;- Original project: &apos;x-y plane&apos;&#x0D;&#x0A;- Original element: &apos;x_yPlane&apos;&#x0D;&#x0A;- Renamed element: &apos;Point&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;x_yPlane&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{x_yPlane.java[x_yPlane" matchStrategy="1" name="Point" qualified="false" references="true" similarDeclarations="false" stamp="1701853376523" textual="false" version="1.0"/>
+</session>

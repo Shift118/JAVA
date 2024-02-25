@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="car"/>
+    <fullyQualifiedTypeName name="EmpClass"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="javax.management.MBeanParameterInfo"/>
+    <fullyQualifiedTypeName name="QuadraticEquations"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="Library"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="UniversityCourse"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="Learn.Employee"/>
+    <fullyQualifiedTypeName name="Bank.AXIS"/>
+    <fullyQualifiedTypeName name="Ship"/>
+    <fullyQualifiedTypeName name="CruiseShip"/>
+    <fullyQualifiedTypeName name="CargoShip"/>
+    <fullyQualifiedTypeName name="java.lang.Character"/>
+    <fullyQualifiedTypeName name="Point"/>
+    <fullyQualifiedTypeName name="Cylinder"/>
+    <fullyQualifiedTypeName name="Circle"/>
+    <fullyQualifiedTypeName name="BankAccount"/>
+    <fullyQualifiedTypeName name="Student"/>
+    <fullyQualifiedTypeName name="freshman"/>
+    <fullyQualifiedTypeName name="SoccerPlayer"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="javax.security.auth.kerberos.ServicePermission"/>
+    <fullyQualifiedTypeName name="Discount"/>
+    <fullyQualifiedTypeName name="Item"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="java.awt.event.ActionEvent"/>
+    <fullyQualifiedTypeName name="TemperatureConverter"/>
+    <fullyQualifiedTypeName name="CommonFunc"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="javax.swing.JTextArea"/>
+</qualifiedTypeNameHistroy>

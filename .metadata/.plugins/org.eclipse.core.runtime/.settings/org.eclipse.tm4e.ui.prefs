@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+org.eclipse.tm4e.ui.taskTags=[{"severity"\:"INFO","tag"\:"NOTE","type"\:"PROBLEM"},{"priority"\:"NORMAL","tag"\:"HACK","type"\:"TASK"},{"priority"\:"NORMAL","tag"\:"OPTIMIZE","type"\:"TASK"},{"priority"\:"HIGH","tag"\:"FIXME","type"\:"TASK"},{"priority"\:"NORMAL","tag"\:"TODO","type"\:"TASK"},{"severity"\:"INFO","tag"\:"ATTN","type"\:"PROBLEM"},{"priority"\:"HIGH","tag"\:"BUG","type"\:"TASK"},{"priority"\:"NORMAL","tag"\:"XXX","type"\:"TASK"}]
+org.eclipse.tm4e.ui.themeAssociations=[]
+org.eclipse.tm4e.ui.themes=[]
